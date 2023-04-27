@@ -1,7 +1,7 @@
 <!-- welcome message -->
 <h2>Hello there </h2>
 
-<p>I'm Aman kushwaha . i'm a 1st year student👨‍🎓 persuing B.tech CSE from Amity University🏛 . i'm a passionate learner who's always hungry for learning new technologies👩‍💻 . i'm currently into Full stack development🚀.</p>
+<p>I'm Aman kushwaha . i'm a 2nd year student👨‍🎓 persuing B.tech CSE from Amity University🏛 . i'm a passionate learner who's always hungry for learning new technologies👩‍💻 .</p>
 
 <!-- LANGUAGE AND TOOLS -->
 
