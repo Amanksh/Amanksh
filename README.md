@@ -1,7 +1,7 @@
 <!-- welcome message -->
 <h2>Hello there </h2>
 
-<p>I'm Aman kushwaha . i'm a 3rd year student👨‍🎓 persuing B.tech CSE from Amity University🏛 . i'm a passionate learner who's always hungry for learning new technologies👩‍💻 .</p>
+<p>I'm a Software Developer with a background in Full stack development, Devops, and Problem solving . I love to design, build, and automate complex systems and Contributing to Open Source Projects . As a developer I believe in collaboration and continuous learning ..</p>
 
 <!-- LANGUAGE AND TOOLS -->
 
