@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👾 About Me:
 🔭I'm a Software Developer with a background in Full stack development, Devops, and Problem solving . I love to design, build, and automate complex systems and Contributing to Open Source Projects . As a developer I believe in collaboration and continuous learning ..
 
 
